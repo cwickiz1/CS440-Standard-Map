@@ -10,5 +10,3 @@ make minimal: compile provided minimal to ./minimal
 make morse: compile provided morse to ./morse
 make performance: compile provided performance to ./performance
 make clean: remove executables
-
-Submitting a day late since I lost power in Westchester County due to storm, professor was notified.  -fpermissive was added to change an error to a warning within my at.
